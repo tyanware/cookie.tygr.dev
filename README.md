@@ -1,5 +1,5 @@
 # ❒ Preview  
-![banner](https://i.imgur.com/eAdIQTb.png)
+![cookie tygr dev](https://user-images.githubusercontent.com/59417077/205514688-a640ac9f-1c68-4fa0-ac58-efe5bdb5c3b0.png)
 
 # Tech stack
 * Framework: [Remix](https://remix.run/)
@@ -22,11 +22,3 @@ Create a `.env` file, an example is shown below. Please use your own values:
 CONTENTFUL_ACCESS_TOKEN=YOUR_CONTENTFUL_TOKEN
 CONTENTFUL_SPACE_ID=YOUR_CONTENTFUL_SPACEID
 ```
-
-# Badges
-
-[![CodeQL](https://github.com/lofustudio/cookiebot.tech/actions/workflows/codeql.yml/badge.svg)](https://github.com/lofustudio/cookiebot.tech/actions/workflows/codeql.yml)  
-[![Dependency Review](https://github.com/lofustudio/cookiebot.tech/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/lofustudio/cookiebot.tech/actions/workflows/dependency-review.yml)
-
-# Help
-If more help is needed, you can contact tygerxqt by [e-mail](mailto:hello@tygr.dev) or [tweet](https://twitter.com/intent/tweet?text=%40tygerxqt).
